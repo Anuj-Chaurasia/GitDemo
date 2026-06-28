@@ -8,6 +8,7 @@ public class Login {
 		System.out.println("Feature merge conflict");
 		System.out.println("Main branch merge conflict");
 
+		System.out.println("Production Bug Fixed to understand Stash concept");
 
 	}
 
