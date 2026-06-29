@@ -10,7 +10,7 @@ public class Login {
 
 		System.out.println("Understand Git Rebase");
 		
-		System.out.println("Under main branch Merge conflict issue creating");
+		System.out.println("Under new create 'Merge_Conflict' branch creating conflict issue");
 	}
 
 }
